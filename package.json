@@ -1,0 +1,20 @@
+{
+  "name": "com.ylunha.unity-panel-jump",
+  "version": "1.0.0",
+  "displayName": "Panel Jump",
+  "description": "Unity component 'Panel Jump'. Controls the visible of a RectTransform.",
+  "unity": "2020.1",
+  "dependencies": {},
+  "keywords": [
+    "toolbar",
+    "panel",
+    "custom",
+    "UI",
+    "button"
+  ],
+  "author": {
+    "name": "Yurii Lunha",
+    "email": "iurylunga@gmail.com",
+    "url": "https://github.com/YLUNHA"
+  }
+}
